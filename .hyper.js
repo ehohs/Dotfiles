@@ -140,7 +140,6 @@ module.exports = {
     // for advanced config flags please refer to https://hyper.is/#cfg
     opacity: 0.9,
     summon: {
-      hideDock: true,
       hideOnBlur: true,
       hotkey: 'Ctrl+T'
     },
